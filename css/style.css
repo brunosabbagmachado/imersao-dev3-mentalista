@@ -1,9 +1,9 @@
 body {
   font-family: "Roboto Mono", monospace;
   min-height: 600px;
-  /* background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-03-mentalista.png"); */
+  background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-03-mentalista.png");
   /* background-image: url("https://wallpaperaccess.com/full/1984634.jpg"); */
-  background-image: url("https://networthpost.org/wp-content/uploads/2014/11/Simon-Baker-Net-Worth.jpg");
+  /* background-image: url("https://networthpost.org/wp-content/uploads/2014/11/Simon-Baker-Net-Worth.jpg"); */
   background-color: #000000;
   background-size: cover;
   background-position: center bottom;
